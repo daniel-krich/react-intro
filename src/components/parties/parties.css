@@ -1,0 +1,10 @@
+.party {
+    background-color: #21212110;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.party__item {
+    margin-right: 30px;
+}
